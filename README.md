@@ -11,16 +11,16 @@ Original Asset Citation:
 
 @misc{ ORCASpeedTree,
 
-→title = SpeedTree, Open Research Content Archive (ORCA),
+    title = SpeedTree, Open Research Content Archive (ORCA),
 
-→author = SpeedTree,
+    author = SpeedTree,
    
-→year = 2017,
+    year = 2017,
    
-→month = July,
+    month = July,
    
-→note = \small \texttt{http://developer.nvidia.com/orca/speedtree},
+    note = \small \texttt{http://developer.nvidia.com/orca/speedtree},
    
-→url = http://developer.nvidia.com/orca/speedtree
+    url = http://developer.nvidia.com/orca/speedtree
    
 }
