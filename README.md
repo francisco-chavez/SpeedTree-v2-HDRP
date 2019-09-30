@@ -9,18 +9,20 @@ ORCA has some really nice assets, and I think that it's a shame that they don't 
 
 Original Asset Citation:
 
-@misc{ ORCASpeedTree,
+    @misc{ 
 
-    title = SpeedTree, Open Research Content Archive (ORCA),
+        ORCASpeedTree,
 
-    author = SpeedTree,
+        title = SpeedTree, Open Research Content Archive (ORCA),
+
+        author = SpeedTree,
    
-    year = 2017,
+        year = 2017,
    
-    month = July,
+        month = July,
    
-    note = \small \texttt{http://developer.nvidia.com/orca/speedtree},
+        note = \small \texttt{http://developer.nvidia.com/orca/speedtree},
    
-    url = http://developer.nvidia.com/orca/speedtree
+        url = http://developer.nvidia.com/orca/speedtree
    
-}
+    }
